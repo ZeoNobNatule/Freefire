@@ -17,7 +17,7 @@ from icmplib import ping as pig
 import threading
 
 # Configuration (Hardcoded)
-API_URL = "https://obscure-carnival-6954jxjjw69qhxp-5000.app.github.dev/"  # Thay đổi host và port nếu cần
+API_URL = "https://obscure-carnival-6954jxjjw69qhxp-5000.app.github.dev/api"  # Thay đổi host và port nếu cần
 BOT_TOKEN = "HieuDeptraiKhoaiToMaiDinhVip999"  # Thay bằng token hợp lệ
 
 # User-Agent Generation
